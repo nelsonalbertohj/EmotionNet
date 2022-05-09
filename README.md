@@ -9,6 +9,8 @@ The field of emotion recognition aims to automatically quantify human emotional 
 The following research report was submitted as part of the final project in 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning. [EmotionNet Research Report](https://github.com/nelsonalbertohj/EmotionNet/blob/main/EmotionNet_final_report.pdf).
 
 Please, if using the algorithms developed in this repository, please cite me as:
+
+```
 @inproceedings
 {nhemotionnet,
     author = {Hidalgo, Nelson},
@@ -16,6 +18,7 @@ Please, if using the algorithms developed in this repository, please cite me as:
     title = {Emotion Recognition Based on Multimodal Physiological Signals Through Deep Learning},
     booktitle = {Preprint}
 }
+```
 
 # Environment Configuration
 The following dependencies versions were used in this project:
